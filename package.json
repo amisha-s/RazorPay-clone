@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.3.3",
+    "feather-icons": "^4.29.2",
     "postcss": "^8.5.28",
     "tailwindcss": "^4.3.3"
   },
